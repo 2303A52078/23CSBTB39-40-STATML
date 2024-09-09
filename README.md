@@ -1,7 +1,7 @@
 # 23CSBTB39-40-STATML
-ASSIGNMENT-1  
-
-
+ASSIGNMENT-1   
+https://colab.research.google.com/drive/1FLsUxSeGZp8mIt_g088NB_w5sfce_XBf   
+https://colab.research.google.com/drive/1QsimHCFH6DuhOCl_CVYTOfKm64NC4jbG    
 ASSIGNMENT-3  
 https://colab.research.google.com/drive/1ELLKi8ZlB6To8_tmcSqMZRp10pjSwD2W#scrollTo=zBG0ORPn8wVN  
 ASSIGNMENT-4   
