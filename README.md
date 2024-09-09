@@ -8,5 +8,8 @@ ASSIGNMENT-4
 https://colab.research.google.com/drive/122ctl8I_tJuLSPMr1ih42SZYcbtcSbTb#scrollTo=7Fskzu56nC0D   
 ASSIGNMENT-5   
 https://colab.research.google.com/drive/1anXYq7pbXxicW-kfDSrTHnLfSeuHjbqh#scrollTo=vqh-DWbZU7r7   
+ASSIGNMENT-6   
+https://colab.research.google.com/drive/17vLLfhLBDPqFomhukZAN5-tbgTYecwdl#scrollTo=9skuRCGFeeSF        
 ASSIGNMENT-7  
-https://colab.research.google.com/drive/10NfnQSqPEPuaLCbsJOF0TJevwNTx8R0y#scrollTo=rt2S4WkNZkWp   
+https://colab.research.google.com/drive/10NfnQSqPEPuaLCbsJOF0TJevwNTx8R0y#scrollTo=rt2S4WkNZkWp     
+ASSIGNMENT-8    
